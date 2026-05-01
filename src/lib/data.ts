@@ -4,7 +4,7 @@ export const personalInfo = {
   email: "uodueme@gmail.com",
   github: "https://github.com/odueme",
   linkedin: "https://www.linkedin.com/in/uzoezi-odueme-27aa98222/",
-  profilePicture: "/profile.jpeg",
+  profilePicture: "/WIN_20260302_12_08_00_Pro.jpg",
   heroDescription:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
 };
