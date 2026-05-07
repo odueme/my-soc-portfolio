@@ -95,14 +95,10 @@ export const skills = {
 
 export const projects = [
   {
-    title: "Lorem Ipsum Project",
-    github: "https://github.com/loremipsum/project",
+    title: "Advanced-Threat-Detection-Incident-Response-Lab-Using-Splunk-Sysmon",
+    github: "https://github.com/odueme/Advanced-Threat-Detection-Incident-Response-Lab-Using-Splunk-Sysmon",
     description: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-      "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
-      "Excepteur sint occaecat cupidatat non proident.",
+      "Built a SOC home lab using Splunk Enterprise and Sysmon to simulate, detect,and investigate Windows persistence attacks mapped to MITRE ATT&CK techniques including Registry Run Keys (T1547.001) and Windows Service Creation (T1543.003).",
     ],
   },
   {
