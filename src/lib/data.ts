@@ -95,7 +95,7 @@ export const skills = {
 
 export const projects = [
   {
-    title: "Advanced-Threat-Detection-Incident-Response-Lab-Using-Splunk-Sysmon",
+    title: "Advanced Threat Detection Usin splunk queries",
     github: "https://github.com/odueme/Advanced-Threat-Detection-Incident-Response-Lab-Using-Splunk-Sysmon",
     description: [
       "Built a SOC home lab using Splunk Enterprise and Sysmon to simulate, detect,and investigate Windows persistence attacks mapped to MITRE ATT&CK techniques including Registry Run Keys (T1547.001) and Windows Service Creation (T1543.003).",
