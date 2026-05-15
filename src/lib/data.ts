@@ -15,7 +15,7 @@ My approach focuses on:
 - Mapping activity to MITRE ATT&CK techniques
 - Producing clear, structured incident documentation
 
-I am actively developing my skills in threat detection, log analysis, and incident response, with the goal of contributing to a high-performing SOC team..",
+I am actively developing my skills in threat detection, log analysis, and incident response, with the goal of contributing to a high-performing SOC team..,"
 };
 
 export const workExperience = [
