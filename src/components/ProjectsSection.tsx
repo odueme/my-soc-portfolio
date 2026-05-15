@@ -28,7 +28,7 @@ export default function ProjectsSection() {
               <GlassCard className="group overflow-hidden dark:border-purple-500/10 h-full flex flex-col">
                 <CardHeader className="bg-gradient-to-r from-purple-500/5 to-pink-500/5">
                   <CardTitle className="text-center md:text-left group-hover:text-purple-500 transition-colors duration-300">
-                    {project.title}
+                    Endpoint Detection Engineering | Splunk, Sysmon, MITRE ATT&CK
                   </CardTitle>
                 </CardHeader>
                 <CardContent className="flex-grow">
@@ -49,7 +49,7 @@ export default function ProjectsSection() {
                 </CardContent>
                 <CardFooter className="flex justify-center md:justify-start items-center border-t border-border/30 bg-gradient-to-r from-purple-500/5 to-pink-500/5">
                   <motion.a
-                    href={project.github}
+                    href="https://github.com/odueme/Advanced-Threat-Detection-Incident-Response-Lab-Using-Splunk-Sysmon"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center text-sm text-muted-foreground hover:text-purple-500 transition-colors group/link pt-8"
