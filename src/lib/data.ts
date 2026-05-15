@@ -95,23 +95,13 @@ export const skills = {
 
 export const projects = [
   {
-    title: "Advanced Threat Detection Usin splunk queries",
+    title: "Endpoint Detection Engineering | Splunk, Sysmon, MITRE ATT&CK",
     github: "https://github.com/odueme/Advanced-Threat-Detection-Incident-Response-Lab-Using-Splunk-Sysmon",
     description: [
       "Built a SOC home lab using Splunk Enterprise and Sysmon to simulate, detect,and investigate Windows persistence attacks mapped to MITRE ATT&CK techniques including Registry Run Keys (T1547.001) and Windows Service Creation (T1543.003).",
     ],
   },
-  {
-    title: "Dolor Sit Amet App",
-    github: "https://github.com/loremipsum/dolorapp",
-    description: [
-      "Morbi in sem quis dui placerat ornare.",
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.",
-      "Praesent dapibus, neque id cursus faucibus.",
-      "Fusce feugiat malesuada odio.",
-      "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.",
-    ],
-  },
+
 ];
 
 export const awards = [
