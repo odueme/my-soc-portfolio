@@ -77,7 +77,7 @@ export default function SkillsSection() {
             </GlassCard>
           </motion.div>
 
-          
+        </motion.div>
 
 
          
