@@ -6,58 +6,57 @@ export const personalInfo = {
   linkedin: "https://www.linkedin.com/in/uzoezi-odueme-27aa98222/",
   profilePicture: "/ChatGPT Image May 1, 2026, 02_11_04 PM.png",
   heroDescription:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "I am an aspiring Security Operations Center (SOC) analyst with practical experience in detection engineering and threat investigation.
+
+I have built a hands-on lab environment where I simulate real-world attack techniques — including LSASS credential dumping, scheduled task persistence, and service-based persistence — and develop behavioral detection rules using Sysmon and Splunk.
+
+My approach focuses on:
+- Detecting attacker behavior rather than signatures
+- Mapping activity to MITRE ATT&CK techniques
+- Producing clear, structured incident documentation
+
+I am actively developing my skills in threat detection, log analysis, and incident response, with the goal of contributing to a high-performing SOC team..",
 };
 
 export const workExperience = [
   {
-    company: "Lorem Ipsum Corp",
-    location: "Lorem City",
-    position: "Lorem Engineer",
-    period: "Jan 2020 - Present",
+    company: "Chronos Capital",
+    location: "Lagos, Nigeria",
+    position: "Full-Stack Developer  ",
+    period: "Sep 2024 - Dec 2024",
     achievements: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-      "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
-      "Excepteur sint occaecat cupidatat non proident.",
-      "Sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Curabitur pretium tincidunt lacus. Nulla gravida orci a odio.",
+      "Designed and implemented token-based authentication and middleware access controls for fintech platforms such as Kar2Kash  where I was able to authenticate over a thousand users.",
+      "ntegrated secure APIs for merchant and asset management, reducing exposure to unauthorized requests .",
+      "Created a backend filtering logic to ensure hundreds of Chronos field officers were able to filter Loans based on due date, name of loanee, loan amount and many other criteria ensuring a reliable loan tracking system. ",
+      "Participated in quarterly meetings where I contributed ideas such as implementing loan tracking on collateral items which lead to field officers inputting details of each loaner’s collateral into the web app ensuring collateral items are tracked efficiently. ",
     ],
   },
   {
-    company: "Dolor Sit Amet",
-    location: "Ipsumville",
-    position: "Software Developer",
-    period: "Feb 2019 - Jan 2020",
+    company: "Agora Solutions",
+    location: " Lagos, Nigeria",
+    position: "Mobile Application Developer ",
+    period: "Jan 2024 - Sep 2024",
     achievements: [
-      "Morbi in sem quis dui placerat ornare.",
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.",
+      "Built cross-platform insurance applications serving 10,000+ users",
+      "Implemented secure authentication using Firebase Authentication with encrypted session handling that ensured security on the insurance application.",
+      "Identified and remediated API vulnerabilities through testing and validation leading to no reports of security breaches or security incidents."
+      "Applied data protection principles to secure sensitive financial and personal data which lead to the protection of customer’s trust, upholding company’s reputation and avoiding legal penalties."
     ],
   },
-  {
-    company: "Consectetur Inc.",
-    location: "Adipiscing, Ipsum",
-    position: "Intern",
-    period: "Jun 2018 - Feb 2019",
-    achievements: [
-      "Praesent dapibus, neque id cursus faucibus.",
-      "Fusce feugiat malesuada odio.",
-    ],
-  },
+
 ];
 
 export const education = [
   {
-    institution: "Lorem Ipsum University",
-    location: "Lorem City",
-    degree: "BSc Lorem Ipsum",
-    period: "2015 - 2019",
+    institution: "Edinburgh Napier University",
+    location: "Edinburgh City",
+    degree: "Msc Cybersecurity",
+    period: "Jan 2025 - Jul 2025",
     achievements: [
-      "President of Lorem Ipsum Club",
-      "Organized multiple lorem events",
+      "Incident Response & Malware Analysis - Learned the fundamentals of incidence response",
+      "Applied Cryptography and Trust - Learned the fundamentals of symmetric keys",
       "Represented university in national competitions.",
-      "Graduated with honors.",
+      "Computer Penetration Testing.",
     ],
   },
 ];
