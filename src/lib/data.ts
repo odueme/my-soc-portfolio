@@ -52,7 +52,7 @@ export const education = [
 ];
 export const skills = {
   programmingLanguages: [
-    "SIEM(Microsoft Sentinel, Splunk)"
+    "SIEM(Microsoft Sentinel, Splunk)",
     "Wireshark",
     "Sysmon",
     "Process Monitor",
