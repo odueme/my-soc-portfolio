@@ -5,17 +5,7 @@ export const personalInfo = {
   github: "https://github.com/odueme",
   linkedin: "https://www.linkedin.com/in/uzoezi-odueme-27aa98222/",
   profilePicture: "/ChatGPT Image May 1, 2026, 02_11_04 PM.png",
-  heroDescription:
-    "I am an aspiring Security Operations Center (SOC) analyst with practical experience in detection engineering and threat investigation.
-
-I have built a hands-on lab environment where I simulate real-world attack techniques — including LSASS credential dumping, scheduled task persistence, and service-based persistence — and develop behavioral detection rules using Sysmon and Splunk.
-
-My approach focuses on:
-- Detecting attacker behavior rather than signatures
-- Mapping activity to MITRE ATT&CK techniques
-- Producing clear, structured incident documentation
-
-I am actively developing my skills in threat detection, log analysis, and incident response, with the goal of contributing to a high-performing SOC team..,"
+  heroDescription: "I am an aspiring Security Operations Center (SOC) analyst with practical experience in detection engineering and threat investigation.I have built a hands-on lab environment where I simulate real-world attack techniques — including LSASS credential dumping, scheduled task persistence, and service-based persistence — and develop behavioral detection rules using Sysmon and Splunk.My approach focuses on:- Detecting attacker behavior rather than signatures- Mapping activity to MITRE ATT&CK techniques- Producing clear, structured incident documentationI am actively developing my skills in threat detection, log analysis, and incident response, with the goal of contributing to a high-performing SOC team..,"
 };
 
 export const workExperience = [
