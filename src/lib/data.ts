@@ -58,10 +58,10 @@ export const skills = {
     "Process Monitor",
     " MITRE ATT&CK ",
     "Threat Detection",
-    "Phython"
-    "GDPR fundamentals"
-    "SOC Automation"
-    "Networking"
+    "Phython",
+    "GDPR fundamentals",
+    "SOC Automation",
+    "Networking",
     
   ],
   frontendDevelopment: [
