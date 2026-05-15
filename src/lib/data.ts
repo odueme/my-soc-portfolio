@@ -29,8 +29,8 @@ export const workExperience = [
     achievements: [
       "Built cross-platform insurance applications serving 10,000+ users",
       "Implemented secure authentication using Firebase Authentication with encrypted session handling that ensured security on the insurance application.",
-      "Identified and remediated API vulnerabilities through testing and validation leading to no reports of security breaches or security incidents."
-      "Applied data protection principles to secure sensitive financial and personal data which lead to the protection of customer’s trust, upholding company’s reputation and avoiding legal penalties."
+      "Identified and remediated API vulnerabilities through testing and validation leading to no reports of security breaches or security incidents.",
+      "Applied data protection principles to secure sensitive financial and personal data which lead to the protection of customer’s trust, upholding company’s reputation and avoiding legal penalties.",
     ],
   },
 
