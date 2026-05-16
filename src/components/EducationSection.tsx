@@ -2,6 +2,7 @@ import { education } from "@/lib/data";
 import TimelineItem from "./TimelineItem";
 import MotionWrapper from "./MotionWrapper";
 import { motion } from "framer-motion";
+import { Award } from "lucide-react";
 
 export default function EducationSection() {
   return (
