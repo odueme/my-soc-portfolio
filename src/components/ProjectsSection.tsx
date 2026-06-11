@@ -49,7 +49,7 @@ export default function ProjectsSection() {
                 </CardContent>
                 <CardFooter className="flex justify-center md:justify-start items-center border-t border-border/30 bg-gradient-to-r from-purple-500/5 to-pink-500/5">
                   <motion.a
-                    href="https://github.com/odueme/Advanced-Threat-Detection-Incident-Response-Lab-Using-Splunk-Sysmon"
+                    href={project.github}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center text-sm text-muted-foreground hover:text-purple-500 transition-colors group/link pt-8"
