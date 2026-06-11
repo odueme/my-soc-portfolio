@@ -95,6 +95,13 @@ export const projects = [
       "Built a SOC home lab using Splunk Enterprise and Sysmon to simulate, detect,and investigate Windows persistence attacks mapped to MITRE ATT&CK techniques including Registry Run Keys (T1547.001) and Windows Service Creation (T1543.003).",
     ],
   },
+    {
+    title: "T1047-WMI-Detection",
+    github: "https://assorted-ginger-a33.notion.site/Detecting-WMI-Process-Creation-MITRE-ATT-CK-T1047-Using-Microsoft-Defender-XDR-37c898cedd7780c0b203f6a390890ae8?pvs=73",
+    description: [
+      "Built a Microsoft Defender XDR home lab using Windows 11, Atomic Red Team, and Microsoft Defender for Endpoint to simulate, detect, and investigate Windows Management Instrumentation (WMI) execution activity. Developed and validated custom KQL detections for ATT&CK T1047 (Windows Management Instrumentation), correlated process execution telemetry, analyzed parent-child process relationships, and documented detection logic, false positives, blind spots, and investigation findings through Atomic Red Team adversary emulation.",
+    ],
+  },
 
 ];
 
